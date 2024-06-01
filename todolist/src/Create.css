@@ -1,0 +1,16 @@
+.create_form input {
+  width: 300px;
+  padding: 10px;
+  border-bottom: 2px solid;
+  outline: none;
+  margin: 20px;
+}
+
+.create_form button {
+  padding: 10px;
+  background-color: #000000;
+  color: white;
+  cursor: pointer;
+  border-radius: 10px;
+  width: 100px;
+}
